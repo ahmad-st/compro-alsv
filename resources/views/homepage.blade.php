@@ -68,7 +68,7 @@
                         <div class="row align-items-center">
                             <div class="col-lg-6">
                                 <div class="home-title mo-mb-20">
-                                    <h1 class="mb-4 text-white">Alsava Teknologi Indonesia, One Stop IT Solution</h1>
+                                    <h1 class="mb-5 text-white"></h1>
                                     <!-- <p class="text-white-50 home-desc mb-5"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. </p> -->
                                 </div>
                             </div>
